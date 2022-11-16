@@ -1,4 +1,6 @@
-﻿bool PalindCheck(int number)
+//Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+
+bool PalindCheck(int number)
 {
 int n = number;
 int res = 0;
