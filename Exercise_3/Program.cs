@@ -1,4 +1,5 @@
-﻿void Table(int number)
+//Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+void Table(int number)
 {
     int i = 1;
     while(i<=number)
