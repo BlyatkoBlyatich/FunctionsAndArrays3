@@ -1,4 +1,6 @@
-﻿double Rasst(double x1, double y1, double z1, double x2, double y2, double z2)
+//Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+
+double Rasst(double x1, double y1, double z1, double x2, double y2, double z2)
 {
     double a = Math.Pow(x2 - x1, 2);
     double b = Math.Pow(y2 - y1, 2);
